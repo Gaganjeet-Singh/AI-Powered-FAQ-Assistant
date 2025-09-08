@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore environment variables file
+.env
+
+# Other common Python ignores
+__pycache__/
+*.pyc
