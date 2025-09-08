@@ -16,7 +16,7 @@ AI-Powered-FAQ-Assistant/
 │
 ├── main.py # Streamlit app (UI)
 ├── langchain_helper.py # Backend logic (LLM, embeddings, FAISS, QA chain)
-├── codebasics_faqs.csv # FAQ dataset
+├── faq.csv # FAQ dataset
 ├── faiss_index/ # Vector database (auto-created)
 ├── assets/ # Screenshots & UI images
 │ └── ui_demo.png # Example Streamlit interface screenshot
